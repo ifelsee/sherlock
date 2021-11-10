@@ -8,12 +8,19 @@
     "username_unclaimed": "noonewouldeverusethis7"
   },
   "Kommunity": {
-    "errorType": "response_url",
-    "errorUrl": "https://kommunity.com/",
-    "url": "https://kommunity.com/@{}/",
-    "urlMain": "https://kommunity.com",
-    "username_claimed": "devaresx",
-    "username_unclaimed": "noonewoulwwdeverusethi s33"
-  }
-}
+    "errorMsg": "Aradığınız sayfa bulunamadı",
+    "errorType": "message",
+    "url": "https://kommunity.com/@{}",
+    "urlMain": "https://kommunity.com/",
+    "username_claimed": "burak",
+    "username_unclaimed": "noonewoulwwdeverusethis33"
+  },
+  
+}    "errorMsg": "Oh no! Player not found.",
+    "errorType": "message",
+    "url": "https://www.clozemaster.com/players/{}",
+    "urlMain": "https://www.clozemaster.com",
+    "username_claimed": "green",
+    "username_unclaimed": "noonewouldeverusethis7"
  
+
