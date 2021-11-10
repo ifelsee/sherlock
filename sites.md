@@ -14,7 +14,7 @@
 1. [AskFM](https://ask.fm/)
 1. [Atom Discussions](https://discuss.atom.io)
 1. [Audiojungle](https://audiojungle.net/)
-1. [Avizo](https://www.avizo.cz/)
+1. [Kommunity](https://www.Kommunity.com/)
 1. [BLIP.fm](https://blip.fm/)
 1. [BOOTH](https://booth.pm/)
 1. [Bandcamp](https://www.bandcamp.com/)
