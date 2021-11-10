@@ -10,7 +10,7 @@
   "Kommunity": {
     "errorType": "response_url",
     "errorUrl": "https://kommunity.com/",
-    "url": "https://kommunity.com/{}/",
+    "url": "https://kommunity.com/@{}/",
     "urlMain": "https://kommunity.com/",
     "username_claimed": "devaresx",
     "username_unclaimed": "noonewoulwwdeverusethi s33"
