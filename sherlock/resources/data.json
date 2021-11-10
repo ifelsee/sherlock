@@ -7,10 +7,10 @@
     "username_claimed": "TheMorozko",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Avizo": {
+  "Kommunity.com": {
     "errorType": "response_url",
     "errorUrl": "https://kommunity.com/404",
-    "url": "https://kommunity.com/@{}/",
+    "url": "https://kommunity.com/{}/",
     "urlMain": "https://kommunity.com/",
     "username_claimed": "devaresx",
     "username_unclaimed": "noonewoulwwdeverusethis33"
